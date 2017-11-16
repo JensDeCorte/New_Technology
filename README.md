@@ -24,19 +24,19 @@ WebGl wordt gebruikt voor het weergeven van realtime 3D graphics in een compatib
 Een Vertex shader en een Fragment shader worden samen een program genoemt.
 
 ## Sample 1 - WebGl Instantiëren ##
-Zie code/sample_1 voor uitleg
+Zie code/sample_1
 
 ## Sample 2 - Een simpele driehoek tekenen ##
-Zie code/sample_2 voor uitleg
+Zie code/sample_2
 
 ## Sample 3 - Een 3D kubus ##
-Zie code/sample_3 voor uitleg
+Zie code/sample_3
 
 ## Sample 4 - Textures ##
-Zie code/sample_4 voor uitleg
+Zie code/sample_4
 
 ## Sample 5 - Externe meshes laden ##
-Zie code/sample_5 voor uitleg
+Zie code/sample_5
 
 ## Sample 6 - Belichting ##
-Zie code/sample_6 voor uitleg
+Zie code/sample_6
